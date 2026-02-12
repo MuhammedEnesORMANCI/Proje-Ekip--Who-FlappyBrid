@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hayati\\Desktop\\Proje-Ekip--Who-FlappyBrid-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97584410-9CA5-DB00-21FD-5BF70B3AAA1B}|Assembly-CSharp.csproj|c:\\users\\hayati\\desktop\\proje-ekip--who-flappybrid-main\\assets\\hayat\u0130\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97584410-9CA5-DB00-21FD-5BF70B3AAA1B}|Assembly-CSharp.csproj|solutionrelative:assets\\hayat\u0130\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\hayati\\Desktop\\Proje-Ekip--Who-FlappyBrid-main\\Assets\\HAYAT\u0130\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\HAYAT\u0130\\Player.cs",
+              "ToolTip": "C:\\Users\\hayati\\Desktop\\Proje-Ekip--Who-FlappyBrid-main\\Assets\\HAYAT\u0130\\Player.cs",
+              "RelativeToolTip": "Assets\\HAYAT\u0130\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T09:37:09.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
