@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - "boru aras\u0131"
   layers:
   - Default
   - TransparentFX
