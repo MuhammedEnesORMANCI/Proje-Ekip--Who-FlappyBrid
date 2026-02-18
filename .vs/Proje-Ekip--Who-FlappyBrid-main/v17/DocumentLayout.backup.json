@@ -3,7 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\hayati\\Desktop\\Proje-Ekip--Who-FlappyBrid-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97584410-9CA5-DB00-21FD-5BF70B3AAA1B}|Assembly-CSharp.csproj|c:\\users\\hayati\\desktop\\proje-ekip--who-flappybrid-main\\assets\\hayat\u0130\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97584410-9CA5-DB00-21FD-5BF70B3AAA1B}|Assembly-CSharp.csproj|c:\\users\\hayati\\desktop\\proje-ekip--who-flappybrid-main\\assets\\hayat\u0130\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97584410-9CA5-DB00-21FD-5BF70B3AAA1B}|Assembly-CSharp.csproj|solutionrelative:assets\\hayat\u0130\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97584410-9CA5-DB00-21FD-5BF70B3AAA1B}|Assembly-CSharp.csproj|C:\\Users\\hayati\\Desktop\\Proje-Ekip--Who-FlappyBrid-main\\assets\\sena\\scripts\\pipespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97584410-9CA5-DB00-21FD-5BF70B3AAA1B}|Assembly-CSharp.csproj|solutionrelative:assets\\sena\\scripts\\pipespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97584410-9CA5-DB00-21FD-5BF70B3AAA1B}|Assembly-CSharp.csproj|C:\\Users\\hayati\\Desktop\\Proje-Ekip--Who-FlappyBrid-main\\assets\\den\u0130z\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97584410-9CA5-DB00-21FD-5BF70B3AAA1B}|Assembly-CSharp.csproj|solutionrelative:assets\\den\u0130z\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97584410-9CA5-DB00-21FD-5BF70B3AAA1B}|Assembly-CSharp.csproj|C:\\Users\\hayati\\Desktop\\Proje-Ekip--Who-FlappyBrid-main\\assets\\hayat\u0130\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97584410-9CA5-DB00-21FD-5BF70B3AAA1B}|Assembly-CSharp.csproj|solutionrelative:assets\\hayat\u0130\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97584410-9CA5-DB00-21FD-5BF70B3AAA1B}|Assembly-CSharp.csproj|C:\\Users\\hayati\\Desktop\\Proje-Ekip--Who-FlappyBrid-main\\assets\\hayat\u0130\\kusetkilesim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97584410-9CA5-DB00-21FD-5BF70B3AAA1B}|Assembly-CSharp.csproj|solutionrelative:assets\\hayat\u0130\\kusetkilesim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97584410-9CA5-DB00-21FD-5BF70B3AAA1B}|Assembly-CSharp.csproj|C:\\Users\\hayati\\Desktop\\Proje-Ekip--Who-FlappyBrid-main\\assets\\hayat\u0130\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97584410-9CA5-DB00-21FD-5BF70B3AAA1B}|Assembly-CSharp.csproj|solutionrelative:assets\\hayat\u0130\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,11 +34,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KusEtkilesim.cs",
+              "DocumentMoniker": "C:\\Users\\hayati\\Desktop\\Proje-Ekip--Who-FlappyBrid-main\\Assets\\HAYAT\u0130\\KusEtkilesim.cs",
+              "RelativeDocumentMoniker": "Assets\\HAYAT\u0130\\KusEtkilesim.cs",
+              "ToolTip": "C:\\Users\\hayati\\Desktop\\Proje-Ekip--Who-FlappyBrid-main\\Assets\\HAYAT\u0130\\KusEtkilesim.cs",
+              "RelativeToolTip": "Assets\\HAYAT\u0130\\KusEtkilesim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T14:55:49.448Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\hayati\\Desktop\\Proje-Ekip--Who-FlappyBrid-main\\Assets\\HAYAT\u0130\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\HAYAT\u0130\\GameManager.cs",
+              "ToolTip": "C:\\Users\\hayati\\Desktop\\Proje-Ekip--Who-FlappyBrid-main\\Assets\\HAYAT\u0130\\GameManager.cs",
+              "RelativeToolTip": "Assets\\HAYAT\u0130\\GameManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T14:41:05.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "C:\\Users\\hayati\\Desktop\\Proje-Ekip--Who-FlappyBrid-main\\Assets\\HAYAT\u0130\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\HAYAT\u0130\\NewBehaviourScript.cs",
+              "ToolTip": "C:\\Users\\hayati\\Desktop\\Proje-Ekip--Who-FlappyBrid-main\\Assets\\HAYAT\u0130\\NewBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\HAYAT\u0130\\NewBehaviourScript.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvycAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T14:33:54.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bird.cs",
+              "DocumentMoniker": "C:\\Users\\hayati\\Desktop\\Proje-Ekip--Who-FlappyBrid-main\\Assets\\DEN\u0130Z\\bird.cs",
+              "RelativeDocumentMoniker": "Assets\\DEN\u0130Z\\bird.cs",
+              "ToolTip": "C:\\Users\\hayati\\Desktop\\Proje-Ekip--Who-FlappyBrid-main\\Assets\\DEN\u0130Z\\bird.cs",
+              "RelativeToolTip": "Assets\\DEN\u0130Z\\bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T14:18:25.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PipeSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\hayati\\Desktop\\Proje-Ekip--Who-FlappyBrid-main\\Assets\\SENA\\Scripts\\PipeSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\SENA\\Scripts\\PipeSpawner.cs",
+              "ToolTip": "C:\\Users\\hayati\\Desktop\\Proje-Ekip--Who-FlappyBrid-main\\Assets\\SENA\\Scripts\\PipeSpawner.cs",
+              "RelativeToolTip": "Assets\\SENA\\Scripts\\PipeSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T18:36:48.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\hayati\\Desktop\\Proje-Ekip--Who-FlappyBrid-main\\Assets\\HAYAT\u0130\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\HAYAT\u0130\\Player.cs",
@@ -26,8 +107,7 @@
               "RelativeToolTip": "Assets\\HAYAT\u0130\\Player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T09:37:09.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T09:37:09.356Z"
             }
           ]
         }
