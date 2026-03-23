@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 9121203248774776989}
   - component: {fileID: 2407308410995025086}
   m_Layer: 0
-  m_Name: sensor
+  m_Name: Sensor
   m_TagString: boruarasi
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -74,7 +74,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 0.40566033, g: 0.4538665, b: 1, a: 0.09411765}
+  m_Color: {r: 0.40566033, g: 0.4538665, b: 1, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0

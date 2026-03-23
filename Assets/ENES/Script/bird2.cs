@@ -9,6 +9,9 @@ public class bird2 : MonoBehaviour
     public float zıplama_aralıgı;
     private Rigidbody2D rb;
     private Animator anim;
+    public string heh;
+        
+    
 
     void Start()
     {
@@ -21,7 +24,7 @@ public class bird2 : MonoBehaviour
         if(Input.GetMouseButtonDown(0)|| Input.GetKeyDown(KeyCode.Space))
         {
             rb.velocity = Vector2.up * zıplama_aralıgı;
-            anim.SetTrigger("Flap");
+             anim.Play(heh, 0, 0f);
         }
-}
+    }
 }

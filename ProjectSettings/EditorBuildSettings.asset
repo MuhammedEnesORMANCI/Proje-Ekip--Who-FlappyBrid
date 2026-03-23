@@ -5,10 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/ENES/Hayati2.unity
+    path: Assets/ENES/Menu.unity
+    guid: 4c6eb7ba279e96543ae746158c52bd44
+  - enabled: 1
+    path: Assets/ENES/FlappyBird.unity
     guid: b17cc361c2c501e42850867011108c99
+  - enabled: 1
+    path: Assets/ENES/Paimon.unity
+    guid: a8079f1b60cabe8408c53acdf49e0db6
+  - enabled: 1
+    path: Assets/ENES/911.unity
+    guid: 691251f9d2ebaf1498f6415b1748830e
   m_configObjects: {}
